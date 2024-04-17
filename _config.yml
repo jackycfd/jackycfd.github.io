@@ -21,7 +21,7 @@ repository               : "zhihuammu/zhihuammu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhihuaPhoto.jpg"
+  avatar           : "profile.png"
   name             : "Dr Zhihua Ma"
   pronouns         : # example: "she/her"  
   bio              : "Senior Lecturer in Mathematics"
