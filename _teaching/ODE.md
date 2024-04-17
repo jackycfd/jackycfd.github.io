@@ -4,13 +4,13 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ODE/
 venue: "Manchester Metropolitan University"
-date: 2022-01-01
+date: 2023-01-01
 location: "Manchester, UK"
 excerpt_separator: <!--more-->
 toc: true
 ---
 
-A third year content that covers numerical methods for solving Ordinary Differential Equations (ODEs) and linear systems of equations. 
+A third year content that covers numerical methods for solving Ordinary Differential Equations (ODEs). 
 
 - <a href="https://zhihuammu.github.io/ODE-book/" target="_blank">Linear Multistep Methods</a>
 
