@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhihua Ma's Github Page"
+title                    : "Zhihua Ma's Homepage"
 title_separator          : "-"
 name                     : &name "Zhihua Ma"
 description              : &description "personal description"
