@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 toc: true
 ---
 
-A third year content that covers numerical methods for solving Ordinary Differential Equations (ODEs). 
+An undergraduate module covers numerical methods for solving Ordinary Differential Equations. 
 
 - <a href="https://zhihuammu.github.io/ODE-book/" target="_blank">Linear Multistep Methods</a>
 
