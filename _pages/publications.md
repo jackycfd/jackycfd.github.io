@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  [DOI Link](div class="wordwrap")You can also find my articles on [DOI Link](a href="{{site.author.googlescholar}}")my Google Scholar profile[DOI Link](/a).[DOI Link](/div)
+ <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>  
 {% endif %}
 
 {% include base_path %}
@@ -18,56 +18,54 @@ author_profile: true
 
 ## 2023
 
--  Rai, Ranjodh, Zhihua Ma, Zaibin Lin, Wei Bai, and Ling Qian. 2023. “A  
-  Stable Free-Surface Boundary Solution Method for Fully Nonlinear  
-  Potential Flow Models.” *Applied Ocean Research* 134 (May): 103500.  
+-  Rai, Ranjodh, Zhihua Ma, Zaibin Lin, Wei Bai, and Ling Qian. 2023. “A  \
+  Stable Free-Surface Boundary Solution Method for Fully Nonlinear  \
+  Potential Flow Models.” *Applied Ocean Research* 134 (May): 103500. \  
   [DOI Link](https://doi.org/10.1016/j.apor.2023.103500).
 
 ## 2022
--  Khait, Anatoliy, Zhihua Ma, Ling Qian, Wei Bai, and Zaibin Lin. 2022.  
-  “Energy Dissipation and Non-Potential Effects in Wave Breaking.”  
-  *International Journal of Offshore and Polar Engineering* 32 (1): 87–96.  
+-  Khait, Anatoliy, Zhihua Ma, Ling Qian, Wei Bai, and Zaibin Lin. 2022.   \
+  “Energy Dissipation and Non-Potential Effects in Wave Breaking.”  \
+  *International Journal of Offshore and Polar Engineering* 32 (1): 87–96.  \
   [DOI Link](https://doi.org/10.17736/ijope.2022.ak43).
 
 ## 2021
--  Khait, Anatoliy, and Zhihua Ma. 2021. “On an Eddy Viscosity Model for  
-  Energetic Deep-Water Surface Gravity Wave Breaking.” *Journal of Fluid  
+-  Khait, Anatoliy, and Zhihua Ma. 2021. “On an Eddy Viscosity Model for  \
+  Energetic Deep-Water Surface Gravity Wave Breaking.” *Journal of Fluid  \
   Mechanics* 929: A29. [DOI Link](https://doi.org/10.1017/jfm.2021.863).
 
--  Lin, Zaibin, Ling Qian, Wei Bai, Zhihua Ma, Hao Chen, Jian-Guo Zhou, and  
-  Hanbin Gu. 2021. “A Finite Volume Based Fully Nonlinear Potential Flow  
-  Model for Water Wave Problems.” *Applied Ocean Research* 106: 102445.  
+-  Lin, Zaibin, Ling Qian, Wei Bai, Zhihua Ma, Hao Chen, Jian-Guo Zhou, and \  
+  Hanbin Gu. 2021. “A Finite Volume Based Fully Nonlinear Potential Flow   \
+  Model for Water Wave Problems.” *Applied Ocean Research* 106: 102445.  \
   [DOI Link](https://doi.org/10.1016/j.apor.2020.102445).
 
 ## 2020
 
--  Chen, Hao, Zaibin Lin, Ling Qian, Zhihua Ma, and Wei Bai. 2020. “CFD  
-  Simulation of Wave Energy Converters in Focused Wave Groups Based on  
-  Overset Mesh.” *International Journal of Offshore and Polar Engineering*  
+-  Chen, Hao, Zaibin Lin, Ling Qian, Zhihua Ma, and Wei Bai. 2020. “CFD  \
+  Simulation of Wave Energy Converters in Focused Wave Groups Based on  \
+  Overset Mesh.” *International Journal of Offshore and Polar Engineering*  \
   30: 70–77. [DOI Link](https://doi.org/10.17736/ijope.2020.jc778).
 
--  Ransley, Edward J., Scott A. Brown, Martyn Hann, Deborah M. Greaves,  
-  Christian Windt, John Ringwood, Josh Davidson, et al. 2020. “Focused  
-  Wave Interactions with Floating Structures: A Blind Comparative Study.”  
-  *Proceedings of the Institution of Civil Engineers - Engineering and  
-  Computational Mechanics* xx (0): 1–16.  
+-  Ransley, Edward J., Scott A. Brown, Martyn Hann, Deborah M. Greaves,  \
+  Christian Windt, John Ringwood, Josh Davidson, et al. 2020. “Focused  \
+  Wave Interactions with Floating Structures: A Blind Comparative Study.” \  
+  *Proceedings of the Institution of Civil Engineers - Engineering and  \
+  Computational Mechanics* xx (0): 1–16.  \
   [DOI Link](https://doi.org/10.1680/jencm.20.00006).
 
 
 
--  Ransley, Edward, Shiqiang Yan, Scott Brown, Martyn Hann, David Graham,  
-  Christian Windt, Pal Schmitt, et al. 2020. “A blind  
-  comparative study of focused wave interactions with floating structures  
-  (CCP-WSI Blind Test Series 3).” *International Journal of  
-  Offshore and Polar Engineering* 30: 1–10.  
+-  Ransley, Edward, Shiqiang Yan, Scott Brown, Martyn Hann, David Graham,  \
+  Christian Windt, Pal Schmitt, et al. 2020. “A blind  \
+  comparative study of focused wave interactions with floating structures  \
+  (CCP-WSI Blind Test Series 3).” *International Journal of  \
+  Offshore and Polar Engineering* 30: 1–10.  \
   [DOI Link](https://doi.org/10.17736/ijope.2020.jc774).  
 
 ## 2019
--  Chen, Hao, Ling Qian, Wei Bai, Zhihua Ma, Zaibin Lin, and Mi-An Xue.  
-  2019. “Oblique focused wave group generation and  
-  interaction with a fixed FPSO-shaped body: 3D CFD simulations and  
-  comparison with experiments.” *Ocean Engineering* 192: 106524.  
-  [DOI Link](https://doi.org/10.1016/j.oceaneng.2019.106524).
+-  Chen, Hao, Ling Qian, Wei Bai, Zhihua Ma, Zaibin Lin, and Mi-An Xue. 2019. 
+    “Oblique focused wave group generation and  interaction with a fixed FPSO-shaped body: 3D CFD simulations and 
+    comparison with experiments.” *Ocean Engineering* 192: 106524.  [DOI Link](https://doi.org/10.1016/j.oceaneng.2019.106524).
 
 -  Chen, Hao, Ling Qian, Zhihua Ma, Wei Bai, Derek Causon, and Clive  
   Mingham. 2019. “Application of an Overset Mesh Based Numerical Wave Tank  
@@ -133,8 +131,8 @@ author_profile: true
   A. Raby. 2016. “Pure and Aerated Water Entry of a Flat Plate.” *Physics  
   of Fluids* 28: 016104. [DOI Link](https://doi.org/10.1063/1.4940043).  
 
--  Ma, Z. H., D. M. Causon, L. Qian, C. G. Mingham, and P. Martínez Ferrer.  
-  2016. “Numerical Investigation of Air Enclosed Wave Impacts in a  
+-  Ma, Z. H., D. M. Causon, L. Qian, C. G. Mingham, and P. Martínez Ferrer. 2016. 
+  “Numerical Investigation of Air Enclosed Wave Impacts in a  
   Depressurised Tank.” *Ocean Engineering* 123: 15–27.  
   [DOI Link](https://doi.org/10.1016/j.oceaneng.2016.06.044).
 
@@ -229,7 +227,7 @@ author_profile: true
   Solving Euler Equations on Structured Grid Points.” *Transactions of  
   Nanjing University of Aeronautics and Astronautics* 22 (4): 271–75. 
 
--  Ma, Zhihua, and Hongquan Chen. 2005b. “Simulations of Transonic Inviscid Flows over Airfoils Using  
-  Meshfree Adaptive Algorithm.” *Modern Physics Letters B* 19: 1491–94.  
+-  Ma, Zhihua, and Hongquan Chen. 2005b. “Simulations of Transonic Inviscid Flows over Airfoils Using  \
+  Meshfree Adaptive Algorithm.” *Modern Physics Letters B* 19: 1491–94.  \
   [DOI Link](https://doi.org/10.1142/S0217984905009730).
 
