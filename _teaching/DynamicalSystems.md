@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 toc: true
 ---
 
-An undergraduate module covers numerical methods for solving Ordinary Differential Equations. 
+An undergraduate module covers Dynamical Systems with Applications in Science and Engineering. 
 
 - <a href="https://zhihuammu.github.io/DynamicalSystems/" target="_blank">Continuous Dynamical Systems</a>
 
